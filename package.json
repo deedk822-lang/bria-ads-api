@@ -1,0 +1,15 @@
+{
+  "name": "bria-ads-api",
+  "version": "1.0.0",
+  "description": "Bria's Ads Generation API examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^1.7.9"
+  }
+}
